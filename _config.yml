@@ -9,18 +9,18 @@
 # --------------------------
 title: sieker.dk                          # the main title
 
-tagline: site   # it will display as the sub-title
+tagline: my corner of the internet   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  My website
+  Sieker.dk
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'mortensieker.github.io'
+url: 'sieker.dk'
 
 author: sieker                  # change to your full name
 
 github:
-  username: github_username             # change to your github username
+  username: mortensieker             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
@@ -30,7 +30,7 @@ social:
   email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    #- https://twitter.com/username      # change to your twitter homepage
     - https://github.com/mortensieker       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -75,7 +75,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode:   dark # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
